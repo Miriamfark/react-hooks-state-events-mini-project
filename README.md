@@ -1,4 +1,3 @@
-# Putting it All Together: State and Events
 
 ## Learning Goals
 
